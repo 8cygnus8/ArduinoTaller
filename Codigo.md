@@ -1,5 +1,5 @@
 # ArduinoTaller
-//Codigo para Taller en C ucaramacara Comocs
+//Codigo para Taller en C ucaramacara Comics
 
 const int sPIR = 10;
 
